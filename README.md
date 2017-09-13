@@ -1,2 +1,1 @@
-# hello-world
-experimenting with github
+hi trying to learn about the commit (saved changes) in the github
